@@ -10,7 +10,7 @@
   "author": "Ajay Kumar Rabidas",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "bcrypt": "^3.0.0",
     "body-parser": "^1.18.3",
     "date-and-time": "^0.6.2",
